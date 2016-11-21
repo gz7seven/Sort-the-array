@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "插入排序", "插入排序\插入排序.vcxproj", "{CA6BF797-E3F1-4A1D-8B83-9B5C1A29F756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6BF797-E3F1-4A1D-8B83-9B5C1A29F756}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA6BF797-E3F1-4A1D-8B83-9B5C1A29F756}.Debug|Win32.Build.0 = Debug|Win32
+		{CA6BF797-E3F1-4A1D-8B83-9B5C1A29F756}.Release|Win32.ActiveCfg = Release|Win32
+		{CA6BF797-E3F1-4A1D-8B83-9B5C1A29F756}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

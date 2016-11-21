@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "希尔排序", "希尔排序\希尔排序.vcxproj", "{DD5594F5-D02F-4C12-97C1-C643E80B4CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5594F5-D02F-4C12-97C1-C643E80B4CCB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD5594F5-D02F-4C12-97C1-C643E80B4CCB}.Debug|Win32.Build.0 = Debug|Win32
+		{DD5594F5-D02F-4C12-97C1-C643E80B4CCB}.Release|Win32.ActiveCfg = Release|Win32
+		{DD5594F5-D02F-4C12-97C1-C643E80B4CCB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
